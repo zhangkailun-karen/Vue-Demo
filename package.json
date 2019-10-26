@@ -1,0 +1,22 @@
+{
+  "name": "vue-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangkailun-karen/Vue-Demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangkailun-karen/Vue-Demo/issues"
+  },
+  "homepage": "https://github.com/zhangkailun-karen/Vue-Demo#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
