@@ -1,4 +1,4 @@
-// import page from './page.js'
+import page from './page.js'
 import MoveList from './Movelist.js'
 import mockData from './mockDatas.js'
 
@@ -44,7 +44,7 @@ export default {
         }
     },
     components: {
-        // page,
+        page,
         MoveList
     },
     methods: {
